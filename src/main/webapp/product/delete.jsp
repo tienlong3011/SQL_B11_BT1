@@ -12,9 +12,6 @@
     <title>Delete Product</title>
 </head>
 <style>
-    .message{
-        color: green;
-    }
     table{
         border: 1px;
     }
